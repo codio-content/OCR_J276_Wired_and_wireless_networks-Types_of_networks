@@ -37,7 +37,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3676492803",
   "source": {
-   "name": "Client Server Networks",
+   "name": "Client Server",
    "showName": true,
    "instructions": "Select the correct answer from the available list",
    "points": "1",
@@ -73,21 +73,43 @@
    "instructions": "Select the correct answer from the available list",
    "points": "1",
    "showValues": true,
-   "text": "In a <<<peer-to-peer>>> network all of the computers are equal and give other users <<<access>> to their resources such as hard disk drives and connected computers. \nIn a <<<client-server-network>>> all of the data can be backed up centrally but in a <<<peer-to-peer>>> network each machine is responsible its own backup.",
+   "text": "In a <<<peer-to-peer>>> network all of the computers are equal and give other users <<<access>>> to their resources such as hard disk drives and connected computers. \n",
    "tokens": {
     "blank": [
      "peer-to-peer",
+     "access"
+    ],
+    "text": [
+     "In a ",
+     0,
+     " network all of the computers are equal and give other users ",
+     0,
+     " to their resources such as hard disk drives and connected computers. \n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3109886426",
+  "source": {
+   "name": "Client-Server Network",
+   "showName": true,
+   "instructions": "Select correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "In a <<<client-server-network>>> all of the data can be backed up centrally but in a <<<peer-to-peer>>> network each machine is responsible its own backup.\n",
+   "tokens": {
+    "blank": [
      "client-server-network",
      "peer-to-peer"
     ],
     "text": [
      "In a ",
      0,
-     " network all of the computers are equal and give other users <<<access>> to their resources such as hard disk drives and connected computers. \nIn a ",
-     0,
      " all of the data can be backed up centrally but in a ",
      0,
-     " network each machine is responsible its own backup."
+     " network each machine is responsible its own backup.\n"
     ]
    }
   }
