@@ -1,0 +1,95 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-164611282",
+  "source": {
+   "name": "LAN's",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "A <<<LAN>>> allows computers on a single <<<SITE>>> to communicate with each other and share resources. Separate <<<LANs>>> can be connected together to form a <<<WAN>>>. The <<<internet>>> is an example of this type of network.",
+   "tokens": {
+    "blank": [
+     "LAN",
+     "SITE",
+     "LANs",
+     "WAN",
+     "internet"
+    ],
+    "text": [
+     "A ",
+     0,
+     " allows computers on a single ",
+     0,
+     " to communicate with each other and share resources. Separate ",
+     0,
+     " can be connected together to form a ",
+     0,
+     ". The ",
+     0,
+     " is an example of this type of network."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3676492803",
+  "source": {
+   "name": "Client Server Networks",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "A <<<client-server>>> network is controlled by a <<<server>>> which controls <<<access>>> to the network. It is also responsible for <<<storing>>> the files created by the users.",
+   "tokens": {
+    "blank": [
+     "client-server",
+     "server",
+     "access",
+     "storing"
+    ],
+    "text": [
+     "A ",
+     0,
+     " network is controlled by a ",
+     0,
+     " which controls ",
+     0,
+     " to the network. It is also responsible for ",
+     0,
+     " the files created by the users."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-534132858",
+  "source": {
+   "name": "Peer to Peer Networks",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "In a <<<peer-to-peer>>> network all of the computers are equal and give other users <<<access>> to their resources such as hard disk drives and connected computers. \nIn a <<<client-server-network>>> all of the data can be backed up centrally but in a <<<peer-to-peer>>> network each machine is responsible its own backup.",
+   "tokens": {
+    "blank": [
+     "peer-to-peer",
+     "client-server-network",
+     "peer-to-peer"
+    ],
+    "text": [
+     "In a ",
+     0,
+     " network all of the computers are equal and give other users <<<access>> to their resources such as hard disk drives and connected computers. \nIn a ",
+     0,
+     " all of the data can be backed up centrally but in a ",
+     0,
+     " network each machine is responsible its own backup."
+    ]
+   }
+  }
+ }
+]

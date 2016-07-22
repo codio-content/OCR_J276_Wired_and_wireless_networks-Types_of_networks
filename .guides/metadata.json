@@ -1,0 +1,95 @@
+{
+ "sections": [
+  {
+   "id": "612e0c39-9751-45a8-d84c-5c45322cebb9",
+   "title": "Introduction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-612e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2419e2ea-fa0e-87a0-a62c-53189fd3f42c",
+   "title": "LAN – Local Area Network",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/LAN---Local-Area-Network-2419.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "89fbf5b2-88e5-ac22-7db3-31f537e80ece",
+   "title": "WAN – Wide Area Network",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/WAN---Wide-Area-Network-89fb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "03a50d70-93e0-6744-fc0d-c4f408368f77",
+   "title": "Client-server networks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Client-server-networks-03a5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "acdf4d28-55ff-cdb5-f7d3-bc28125be95b",
+   "title": "Peer-to-peer networks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Peer-to-peer-networks-acdf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "89c723cf-1b23-d067-6f3c-005f5bacb353",
+   "title": "Comparison of client-server and peer-to-peer networks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comparison-of-client-server-and-peer-to-peer-networks-89c7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3b93fe67-1d1e-07e2-82b7-7ccfacaac30c",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-3b93.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dc65238c-62d3-a7bf-1dc6-097d753068a6",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-dc65.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
